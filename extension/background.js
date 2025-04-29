@@ -54,7 +54,7 @@ async function fetchFromOpenAI(content, prompt) {
       "Authorization": `Bearer ${apiKey}`
     },
     body: JSON.stringify({
-      model: "gpt-4o-mini-2024-07-18",
+      model: "gpt-4.1-nano",
       messages: messages,
       max_tokens: 500
     })

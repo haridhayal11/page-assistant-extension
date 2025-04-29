@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Page Assistant",
-  "version": "1.0.0",
-  "description": "AI assistant that analyzes page content using OpenAI's 4o-mini model",
+  "version": "1.0.1",
+  "description": "AI assistant that analyzes page content using OpenAI's 4.1-nano model",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
